@@ -98,6 +98,4 @@
     </tr>
   </table>
 </body>
-</table>
-</table>
 </html>
