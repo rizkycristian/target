@@ -3,7 +3,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Portofolio Rizky Cristian</title>
-  <a href = https://rizkycristian.github.io/tugaswebsite2.2/>tugas2website</a>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -52,6 +51,7 @@
   </style>
 </head>
 <body>
+  <a href = https://rizkycristian.github.io/tugaswebsite2.2/>tugas2website</a>
   <table>
 <!-- Header -->
     <tr>
