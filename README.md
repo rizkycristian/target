@@ -51,6 +51,7 @@
   </style>
 </head>
 <body>
+  <a href = https://rizkycristian.github.io/tugaswebsite2.2/>tugas2website</a>
   <table>
 <!-- Header -->
     <tr>
