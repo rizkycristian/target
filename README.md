@@ -50,17 +50,15 @@
     }
   </style>
 </head>
-  <body>
-    <table>
-
-    <!-- Header -->
+<body>
+  <table>
+<!-- Header -->
     <tr>
       <td colspan="2" class="header">
         <h1>Portofolio Saya</h1>
         <p>Halo, saya Rizky Cristian Fero Sihombing-Mahasiswa Teknologi Informasi Universitas Sumatera Utara</p>
       </td>
     </tr>
-
     <!-- Menu -->
     <tr>
       <td colspan="2" class="menu">
@@ -71,8 +69,7 @@
          <li><a href="https://www.instagram.com/rizky.sihombing.1654?igsh=cm12NXlreWU0Z3Rm">Instagram</a></li>
       </td>
     </tr>
-
-    <!-- Sidebar + Konten -->
+   <!-- Sidebar + Konten -->
     <tr>
       <td class="sidebar">
         <h3>Skill</h3>
@@ -80,8 +77,7 @@
           <li>HTML dasar</li>
           <li>Python dasar</li>
         </ul>
-
-      </td>
+       </td>
       <td class="content">
         <h2>Tentang Saya</h2>
         <p>Saya seorang mahasiswa baru di Universitas Sumatera Utara jurusan teknologi informasi. Saya mengambil jurusan ini karena dulu menurut saya jurusan ini gampang-gampang saja karena hanya berurusan dengan komputer. Namun setelah memasuki masa kuliah ternyata saya salah besar. Banyak hal tentang komputer yang harus dipelajari dan sangat sulit dimengerti mulai dari bahasa pemograman, arsitektur komputer, bagaimana internet bekerja, dan banyak hal rumit lainnya.</p>
@@ -89,7 +85,6 @@
         <p>Sekian yapping dari saya, terimakasih telah membaca</p>
       </td>
     </tr>
-
     <!-- Footer -->
     <tr>
       <td colspan="2" class="footer">
