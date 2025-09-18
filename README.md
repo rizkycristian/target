@@ -52,6 +52,8 @@
 </head>
 <body>
   <table>
+    <a href = https://rizkycristian.github.io/tugaswebsite2.2/  target="blank">tugas2website </a>
+
 <!-- Header -->
     <tr>
       <td colspan="2" class="header">
