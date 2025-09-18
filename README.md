@@ -1,3 +1,5 @@
+https://rizkycristian.github.io/tugaswebsite2.2/
+
 <!DOCTYPE html>
 <html lang="id">
 <head>
