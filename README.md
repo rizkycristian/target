@@ -52,9 +52,7 @@
 </head>
 <body>
   <table>
-    <a href = https://rizkycristian.github.io/tugaswebsite2.2/  target="blank">tugas2website </a>
-
-<!-- Header -->
+    <!-- Header -->
     <tr>
       <td colspan="2" class="header">
         <h1>Portofolio Saya</h1>
@@ -69,6 +67,7 @@
          <li><a href="www.linkedin.com/in/rizky-sihombing-35a227382">LinkedIn</a></li>
          <li><a href="https://m.facebook.com/rizky.sihombing.1654/">Facebook</a></li>
          <li><a href="https://www.instagram.com/rizky.sihombing.1654?igsh=cm12NXlreWU0Z3Rm">Instagram</a></li>
+              <a href = https://rizkycristian.github.io/tugaswebsite2.2/  target="blank">tugas2website </a>
       </td>
     </tr>
    <!-- Sidebar + Konten -->
