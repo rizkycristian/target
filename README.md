@@ -1,3 +1,4 @@
+<a href = https://rizkycristian.github.io/tugaswebsite2.2/>tugas2website</a>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
