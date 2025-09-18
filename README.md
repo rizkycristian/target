@@ -76,6 +76,7 @@
         <ul>
           <li>HTML dasar</li>
           <li>Python dasar</li>
+          <li>Pengarang Handal</li>
         </ul>
        </td>
       <td class="content">
