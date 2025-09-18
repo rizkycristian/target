@@ -53,7 +53,7 @@
 <body>
   <table>
     <!-- Header -->
-    <a href ="https://rizkycristian.github.io/tugaswebsite2.2/"  target="blank">tugaswebsite-2 </a>
+    <a href ="https://rizkycristian.github.io/tugaswebsite2.2/"  target="blank">klik disini</a>
     <tr>
       <td colspan="2" class="header">
         <h1>Portofolio Saya</h1>
