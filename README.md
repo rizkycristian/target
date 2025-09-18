@@ -1,6 +1,5 @@
 https://rizkycristian.github.io/tugaswebsite2.2/
 
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -53,8 +52,6 @@ https://rizkycristian.github.io/tugaswebsite2.2/
     }
   </style>
 </head>
-<body>
-  <table>
     <!-- Header -->
     <tr>
       <td colspan="2" class="header">
