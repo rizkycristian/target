@@ -50,6 +50,9 @@
     }
   </style>
 </head>
+  <body>
+    <table>
+
     <!-- Header -->
     <tr>
       <td colspan="2" class="header">
